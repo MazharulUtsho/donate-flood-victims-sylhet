@@ -4,6 +4,8 @@ h1 {
     font-family: 'Roboto Slab', serif;
 }
 
+
+
 .background-image {
     text-align: center;
     font-weight: 700;
@@ -11,8 +13,9 @@ h1 {
     padding: 200px 200px;
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-size: cover;
+
 
 
 
@@ -27,5 +30,19 @@ h1 {
 }
 
 .Margin {
-    margin-bottom: 100px;
+    margin-bottom: 50px;
+}
+
+.Donation {
+    text-align: center;
+
+
+}
+
+hr {
+    size: 30px;
+}
+
+.donation-plan {
+    text-align: center;
 }
