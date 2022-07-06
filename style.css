@@ -78,3 +78,40 @@ hr {
     border-radius: 10px;
     background-color: paleturquoise;
 }
+
+#font-decuration {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+#design {
+    background-color: bisque;
+    width: 25%;
+    margin-left: 38%;
+    text-align: left;
+    font-weight: 700;
+    padding: 10px 20px;
+
+}
+
+.designs {
+    background-color: black;
+    color: orange;
+    padding: 40px;
+    background-ra
+}
+
+.newdesign {
+    background-color: pink;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 3%;
+}
+
+
+footer {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
