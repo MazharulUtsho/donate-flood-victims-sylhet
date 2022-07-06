@@ -46,3 +46,35 @@ hr {
 .donation-plan {
     text-align: center;
 }
+
+.food-family {
+    text-align: left;
+    width: 30%;
+    margin-left: 15%;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: bisque;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.new-color {
+    text-align: left;
+    width: 30%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: pink;
+}
+
+.another-color {
+    text-align: left;
+    width: 30%;
+    margin-right: 15%;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: paleturquoise;
+}
