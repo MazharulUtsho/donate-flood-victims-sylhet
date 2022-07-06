@@ -98,14 +98,30 @@ hr {
     background-color: black;
     color: orange;
     padding: 40px;
-    background-ra
+
 }
 
-.newdesign {
+.new-design {
     background-color: pink;
     margin-left: 25%;
     margin-right: 25%;
     padding: 3%;
+}
+
+#button-color {
+    color: white;
+    background: linear-gradient(tomato, orange);
+    padding: 40px, 60px;
+    border: white;
+    border-radius: 2px;
+}
+
+.back-color {
+    background-color: blanchedalmond;
+    width: 50%;
+    margin-left: 25%;
+    padding: 50px;
+    border-radius: 5px;
 }
 
 
