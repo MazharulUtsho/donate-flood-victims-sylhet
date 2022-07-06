@@ -1,0 +1,31 @@
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+.background-image {
+    text-align: center;
+    font-weight: 700;
+    color: white;
+    padding: 200px 200px;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+
+
+}
+
+#button-style {
+    text-decoration: none;
+    background: linear-gradient(orange, tomato);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.Margin {
+    margin-bottom: 100px;
+}
